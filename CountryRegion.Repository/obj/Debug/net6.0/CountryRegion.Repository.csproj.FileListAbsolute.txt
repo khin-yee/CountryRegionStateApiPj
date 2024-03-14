@@ -1,0 +1,30 @@
+C:\C# Project\CountryRegion\CountryRegion.Repository\bin\Debug\net6.0\CountryRegion.Repository.deps.json
+C:\C# Project\CountryRegion\CountryRegion.Repository\bin\Debug\net6.0\CountryRegion.Repository.dll
+C:\C# Project\CountryRegion\CountryRegion.Repository\bin\Debug\net6.0\CountryRegion.Repository.pdb
+C:\C# Project\CountryRegion\CountryRegion.Repository\bin\Debug\net6.0\CountryRegion.Domain.dll
+C:\C# Project\CountryRegion\CountryRegion.Repository\bin\Debug\net6.0\CountryRegion.Domain.pdb
+C:\C# Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.csproj.AssemblyReference.cache
+C:\C# Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.AssemblyInfoInputs.cache
+C:\C# Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.AssemblyInfo.cs
+C:\C# Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.csproj.CoreCompileInputs.cache
+C:\C# Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.csproj.CopyComplete
+C:\C# Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.dll
+C:\C# Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\refint\CountryRegion.Repository.dll
+C:\C# Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.pdb
+C:\C# Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\ref\CountryRegion.Repository.dll
+C:\C# Pratice Project\CountryRegion\CountryRegion.Repository\bin\Debug\net6.0\CountryRegion.Repository.deps.json
+C:\C# Pratice Project\CountryRegion\CountryRegion.Repository\bin\Debug\net6.0\CountryRegion.Repository.dll
+C:\C# Pratice Project\CountryRegion\CountryRegion.Repository\bin\Debug\net6.0\CountryRegion.Repository.pdb
+C:\C# Pratice Project\CountryRegion\CountryRegion.Repository\bin\Debug\net6.0\CountryRegion.Domain.dll
+C:\C# Pratice Project\CountryRegion\CountryRegion.Repository\bin\Debug\net6.0\CountryRegion.Domain.pdb
+C:\C# Pratice Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.csproj.AssemblyReference.cache
+C:\C# Pratice Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Pratice Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.AssemblyInfoInputs.cache
+C:\C# Pratice Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.AssemblyInfo.cs
+C:\C# Pratice Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.csproj.CoreCompileInputs.cache
+C:\C# Pratice Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.csproj.CopyComplete
+C:\C# Pratice Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.dll
+C:\C# Pratice Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\refint\CountryRegion.Repository.dll
+C:\C# Pratice Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\CountryRegion.Repository.pdb
+C:\C# Pratice Project\CountryRegion\CountryRegion.Repository\obj\Debug\net6.0\ref\CountryRegion.Repository.dll
