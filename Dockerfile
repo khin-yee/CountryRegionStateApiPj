@@ -12,7 +12,7 @@ WORKDIR /
 COPY ["CountryRegion/CountryRegion.csproj", "CountryRegion/"]
 COPY ["CountryRegion.Domain/CountryRegion.Domain.csproj", "CountryRegion.Domain/"]
 COPY ["CountryRegion.Repository/CountryRegion.Repository.csproj", "CountryRegion.Repository/"]
-COPY ["CountryRegion.Serivce/CountryRegion.Service.csproj", "CountryRegion.Serivce/"]
+COPY ["CountryRegion.Service/CountryRegion.Service.csproj", "CountryRegion.Service/"]
 
 
 RUN dotnet restore "CountryRegion/CountryRegion.csproj"
