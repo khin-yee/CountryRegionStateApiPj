@@ -1508,11 +1508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Domain\\CountryRegion.Domain.csproj",
+      "projectUniqueName": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Domain\\CountryRegion.Domain.csproj",
       "projectName": "CountryRegion.Domain",
-      "projectPath": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Domain\\CountryRegion.Domain.csproj",
+      "projectPath": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Domain\\CountryRegion.Domain.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Domain\\obj\\",
+      "outputPath": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1522,7 +1522,8 @@
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "http://124.243.187.205:8081/repository/nuget-hosted/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1535,6 +1536,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1586,8 +1592,26 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://124.243.187.205:8081/repository/nuget-hosted/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Npgsql' 7.0.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "libraryId": "Npgsql",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C# Pratice Project\\CountryRegion\\CountryRegion\\CountryRegion.csproj": {}
+    "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion\\CountryRegion.csproj": {}
   },
   "projects": {
-    "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Domain\\CountryRegion.Domain.csproj": {
+    "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Domain\\CountryRegion.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Domain\\CountryRegion.Domain.csproj",
+        "projectUniqueName": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Domain\\CountryRegion.Domain.csproj",
         "projectName": "CountryRegion.Domain",
-        "projectPath": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Domain\\CountryRegion.Domain.csproj",
+        "projectPath": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Domain\\CountryRegion.Domain.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Domain\\obj\\",
+        "outputPath": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,8 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://124.243.187.205:8081/repository/nuget-hosted/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -85,18 +91,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Repository\\CountryRegion.Repository.csproj": {
+    "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Repository\\CountryRegion.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Repository\\CountryRegion.Repository.csproj",
+        "projectUniqueName": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Repository\\CountryRegion.Repository.csproj",
         "projectName": "CountryRegion.Repository",
-        "projectPath": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Repository\\CountryRegion.Repository.csproj",
+        "projectPath": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Repository\\CountryRegion.Repository.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Repository\\obj\\",
+        "outputPath": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -106,15 +112,16 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://124.243.187.205:8081/repository/nuget-hosted/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Domain\\CountryRegion.Domain.csproj": {
-                "projectPath": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Domain\\CountryRegion.Domain.csproj"
+              "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Domain\\CountryRegion.Domain.csproj": {
+                "projectPath": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Domain\\CountryRegion.Domain.csproj"
               }
             }
           }
@@ -123,6 +130,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -174,18 +186,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Service\\CountryRegion.Service.csproj": {
+    "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Service\\CountryRegion.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Service\\CountryRegion.Service.csproj",
+        "projectUniqueName": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Service\\CountryRegion.Service.csproj",
         "projectName": "CountryRegion.Service",
-        "projectPath": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Service\\CountryRegion.Service.csproj",
+        "projectPath": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Service\\CountryRegion.Service.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Service\\obj\\",
+        "outputPath": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -195,15 +207,16 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://124.243.187.205:8081/repository/nuget-hosted/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Domain\\CountryRegion.Domain.csproj": {
-                "projectPath": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Domain\\CountryRegion.Domain.csproj"
+              "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Domain\\CountryRegion.Domain.csproj": {
+                "projectPath": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Domain\\CountryRegion.Domain.csproj"
               }
             }
           }
@@ -212,6 +225,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -263,18 +281,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\C# Pratice Project\\CountryRegion\\CountryRegion\\CountryRegion.csproj": {
+    "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion\\CountryRegion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion\\CountryRegion.csproj",
+        "projectUniqueName": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion\\CountryRegion.csproj",
         "projectName": "CountryRegion",
-        "projectPath": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion\\CountryRegion.csproj",
+        "projectPath": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion\\CountryRegion.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion\\obj\\",
+        "outputPath": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -284,18 +302,19 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://124.243.187.205:8081/repository/nuget-hosted/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Repository\\CountryRegion.Repository.csproj": {
-                "projectPath": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Repository\\CountryRegion.Repository.csproj"
+              "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Repository\\CountryRegion.Repository.csproj": {
+                "projectPath": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Repository\\CountryRegion.Repository.csproj"
               },
-              "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Service\\CountryRegion.Service.csproj": {
-                "projectPath": "C:\\C# Pratice Project\\CountryRegion\\CountryRegion.Service\\CountryRegion.Service.csproj"
+              "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Service\\CountryRegion.Service.csproj": {
+                "projectPath": "C:\\C# Pratice Project\\CountryRegionStateApiPj\\CountryRegion.Service\\CountryRegion.Service.csproj"
               }
             }
           }
@@ -304,6 +323,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -370,7 +394,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
