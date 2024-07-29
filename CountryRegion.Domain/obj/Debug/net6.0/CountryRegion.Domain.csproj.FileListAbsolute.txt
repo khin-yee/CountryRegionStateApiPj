@@ -22,3 +22,16 @@ C:\C# Pratice Project\CountryRegion\CountryRegion.Domain\obj\Debug\net6.0\Countr
 C:\C# Pratice Project\CountryRegion\CountryRegion.Domain\obj\Debug\net6.0\refint\CountryRegion.Domain.dll
 C:\C# Pratice Project\CountryRegion\CountryRegion.Domain\obj\Debug\net6.0\CountryRegion.Domain.pdb
 C:\C# Pratice Project\CountryRegion\CountryRegion.Domain\obj\Debug\net6.0\ref\CountryRegion.Domain.dll
+C:\C# Pratice Project\CountryRegionStateApiPj\CountryRegion.Domain\bin\Debug\net6.0\CountryRegion.Domain.deps.json
+C:\C# Pratice Project\CountryRegionStateApiPj\CountryRegion.Domain\bin\Debug\net6.0\CountryRegion.Domain.dll
+C:\C# Pratice Project\CountryRegionStateApiPj\CountryRegion.Domain\bin\Debug\net6.0\CountryRegion.Domain.pdb
+C:\C# Pratice Project\CountryRegionStateApiPj\CountryRegion.Domain\obj\Debug\net6.0\CountryRegion.Domain.csproj.AssemblyReference.cache
+C:\C# Pratice Project\CountryRegionStateApiPj\CountryRegion.Domain\obj\Debug\net6.0\CountryRegion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Pratice Project\CountryRegionStateApiPj\CountryRegion.Domain\obj\Debug\net6.0\CountryRegion.Domain.AssemblyInfoInputs.cache
+C:\C# Pratice Project\CountryRegionStateApiPj\CountryRegion.Domain\obj\Debug\net6.0\CountryRegion.Domain.AssemblyInfo.cs
+C:\C# Pratice Project\CountryRegionStateApiPj\CountryRegion.Domain\obj\Debug\net6.0\CountryRegion.Domain.csproj.CoreCompileInputs.cache
+C:\C# Pratice Project\CountryRegionStateApiPj\CountryRegion.Domain\obj\Debug\net6.0\CountryRegion.Domain.sourcelink.json
+C:\C# Pratice Project\CountryRegionStateApiPj\CountryRegion.Domain\obj\Debug\net6.0\CountryRegion.Domain.dll
+C:\C# Pratice Project\CountryRegionStateApiPj\CountryRegion.Domain\obj\Debug\net6.0\refint\CountryRegion.Domain.dll
+C:\C# Pratice Project\CountryRegionStateApiPj\CountryRegion.Domain\obj\Debug\net6.0\CountryRegion.Domain.pdb
+C:\C# Pratice Project\CountryRegionStateApiPj\CountryRegion.Domain\obj\Debug\net6.0\ref\CountryRegion.Domain.dll
