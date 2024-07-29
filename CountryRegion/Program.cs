@@ -6,6 +6,7 @@ using CountryRegion.Service;
 using Entitytest.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Microsoft.OpenApi.Models;
 using Serilog;
 using Serilog.Enrichers;
 
@@ -27,6 +28,10 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<DatabaseConnect>(options => {
     options.UseNpgsql(configuration.GetConnectionString("DefaultConnection"));
 });
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
+});
 builder.Services.AddScoped<ICountryService,CountryService>();
 builder.Services.AddScoped<ISRRepository, Repository>();
 builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
@@ -36,7 +41,11 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+        c.RoutePrefix = string.Empty; // To serve the Swagger UI at the app's root (http://localhost:<port>/)
+    });
 }
 
 app.UseHttpsRedirection();
@@ -44,5 +53,12 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseRouting();
+
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllers();
+});
 
 app.Run();
